@@ -8,7 +8,6 @@
 
 </font>
 
-<br />
 
 ## Connect with me
 
