@@ -30,21 +30,21 @@
 
 <br/>
 <br/>
-<center>
+
 
 ## Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadircankukrer&layout=compact&theme=dark">
 
 
-</center>
+
 <br/>
-<center>
+
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=nadircankukrer&theme=dark">
 
-</center>
+
 
 
 
