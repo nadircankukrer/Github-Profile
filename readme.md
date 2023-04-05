@@ -1,12 +1,13 @@
 <img src = "https://media.tenor.com/h9hbSTdgeiQAAAAC/burday%C4%B1m-garavel.gif" align = right width = "400" height = "250">
 
-### Nadircan Kükrer
+### Nadircan Kükrer 
 
 ## Front-End Developer 
 
-<font color = "green"> Hello World!
+`< Hello World! />`
 
-</font>
+
+<br/>
 
 
 ## Connect with me
@@ -31,17 +32,21 @@
 <br/>
 
 
-## Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadircankukrer&layout=compact&theme=dark">
+## <p align="center"> Most Used Languages </p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadircankukrer&layout=compact&theme=dark"> </p>
+
+ 
 
 
 <br/>
 
 
-## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=nadircankukrer&theme=dark">
+## <p align="center">Github Stats</p>
+ 
+<p align="center",> <img  src="https://github-readme-stats.vercel.app/api?username=nadircankukrer&theme=dark"> </p>
+ 
 
 
 
