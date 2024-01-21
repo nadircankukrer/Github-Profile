@@ -2,7 +2,7 @@
 
 ### Nadircan Kükrer 
 
-## Front-End Developer 
+## Front-End Web Developer | Flutter Developer
 
 `< Hello World! />`
 
